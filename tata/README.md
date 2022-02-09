@@ -1,29 +1,5 @@
-# tata
+# Previa do site do relógin
 
-## Project setup
-```
-yarn install
-```
+Site que mostra quantas horas faltam para a Tata terminar de trabalhar.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Previa do site do relógio que mostra quantas horas faltam para a tata terminar de trabalhar](./src/assets/previa.png)
