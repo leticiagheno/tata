@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p :class="`${cor} ${tamanho}`"> {{ texto }} </p>
+    <span :class="`${cor} ${tamanho}`"> {{ texto }} </span>
   </div>
 </template>
 
@@ -24,16 +24,11 @@ export default {
     color: #FDBCD9;
 }
 
-.tiny {
-    font-size: 30px;
-}
-
 .normal {
-    font-size: 75px;
+    font-size: 50px;
 }
 
 .big {
-    font-size: 150px;
+    font-size: 75px;
 }
-
 </style>
