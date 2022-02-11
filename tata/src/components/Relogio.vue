@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1> {{ horario }} </h1>
+    <span> 10h50</span>
   </div>
 </template>
 
@@ -14,7 +14,10 @@ export default {
 </script>
 
 <style scoped>
-h1 {
+
+span {
   color: #FDBCD9;
+  font-size: 300px;
 }
+
 </style>
